@@ -21,7 +21,8 @@ await childframe.locator("li a[href*='lifetime-access']:visible").click();
 const text = await childframe.locator(".text h2").textContent();
 console.log(text.split(" ")[0]);
 ////ssssss///
-
+//// created da//
+////sssss///
 
 
 
