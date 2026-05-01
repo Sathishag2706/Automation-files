@@ -22,6 +22,7 @@ const text = await childframe.locator(".text h2").textContent();
 console.log(text.split(" ")[0]);
 ////ssssss///
 // sathish got placed in tcs//
+  // sathish got placed in wipro//
 
 
 
