@@ -15,3 +15,4 @@ const[child] = await Promise.all([
 });
 code is working fine and it is taking the screenshot of child page and also printing the text content of h2 tag in child page.
   ok looks fine
+//child created//
