@@ -29,4 +29,7 @@ console.log(text.split(" ")[0]);
 
 
 
+
+  
+
 })
